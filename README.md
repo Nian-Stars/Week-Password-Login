@@ -22,6 +22,4 @@
 ![示例](https://github.com/Nian-Stars/Week-Password-Login/blob/main/res-some.jpg)
 
 # 扫描完成之后，我们选择一个URL进行检验
-## 检验结果如下
-![示例](https://github.com/Nian-Stars/Week-Password-Login/blob/main/burp.jpg)
-## 证明漏洞存在
+## 检测之后我们能够登录进入说明存在弱口令登录
